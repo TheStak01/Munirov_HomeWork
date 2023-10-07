@@ -1,1 +1,1 @@
-# munirovhomework
+# munirov/homework_01
